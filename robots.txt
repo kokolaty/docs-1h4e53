@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-yt5wvh.salamduit.online/sitemap.xml
